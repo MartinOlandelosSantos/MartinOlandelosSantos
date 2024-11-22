@@ -86,7 +86,6 @@
       <p>Trabajé como ayudante general en ISM mientras aún cursaba la preparatoria. Durante este tiempo, adquirí conocimientos y experiencia en tornos, soldaduras y otros procesos metalmecánicos. Esta oportunidad me permitió desarrollar habilidades técnicas clave en el sector industrial.</p>
     </ul>
 
-    <!-- Imágenes de experiencia laboral -->
     <img src="imagenes/tornillo.jpg" alt="Trabajo con tornos en taller" />
     <img src="imagenes/maquinaria.jpg" alt="Trabajo en maquinaria del taller" />
   </div>
