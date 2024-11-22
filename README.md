@@ -43,6 +43,7 @@
       height: auto;
       border-radius: 8px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 15px;
     }
   </style>
 </head>
@@ -62,7 +63,7 @@
     <p><strong>Redes Sociales:</strong></p>
     <ul>
       <li>Instagram: <a href="https://www.instagram.com/Imnot_martinolan" target="_blank">@Imnot_martinolan</a></li>
-      <li>Facebook: <a href="https://www.facebook.com/Martin Olan" target="_blank">Martin Olan</a></li>
+      <li>Facebook: <a href="https://www.facebook.com/MartinOlan" target="_blank">Martin Olan</a></li>
     </ul>
   </div>
 
@@ -82,9 +83,8 @@
       <p>Trabajé como ayudante general en ISM mientras aún cursaba la preparatoria. Durante este tiempo, adquirí conocimientos y experiencia en tornos, soldaduras y otros procesos metalmecánicos. Esta oportunidad me permitió desarrollar habilidades técnicas clave en el sector industrial.</p>
     </ul>
 
-    <!-- Imágenes de experiencia laboral -->
-    <img src="/mnt/data/Imagen de WhatsApp 2024-11-21 a las 23.36.42_8ae2bff7.jpg" alt="Trabajo con tornos en taller" />
-    <img src="/mnt/data/Imagen de WhatsApp 2024-11-21 a las 23.36.42_e1bb6758.jpg" alt="Trabajo en maquinaria del taller" />
+    <img src="imagenes/tornillo.jpg" alt="Trabajo con tornos en taller" />
+    <img src="imagenes/maquinaria.jpg" alt="Trabajo en maquinaria del taller" />
   </div>
 
   <!-- Habilidades Técnicas -->
